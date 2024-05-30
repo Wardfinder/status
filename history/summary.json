@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-30": 14
+      "2024-05-30": 29
     }
   },
   {
@@ -25,19 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.wardfinder.com.ico",
     "slug": "app",
     "status": "up",
-    "uptime": "0.89%",
-    "uptimeDay": "0.89%",
-    "uptimeWeek": "0.89%",
-    "uptimeMonth": "0.89%",
-    "uptimeYear": "0.89%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 824,
     "timeDay": 824,
     "timeWeek": 824,
     "timeMonth": 824,
     "timeYear": 824,
-    "dailyMinutesDown": {
-      "2024-05-30": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -45,36 +43,36 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.wardfinder.com.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "0.64%",
-    "uptimeDay": "0.64%",
-    "uptimeWeek": "0.64%",
-    "uptimeMonth": "0.64%",
-    "uptimeYear": "0.64%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 804,
     "timeDay": 804,
     "timeWeek": 804,
     "timeMonth": 804,
     "timeYear": 804,
-    "dailyMinutesDown": {
-      "2024-05-30": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Tools",
     "url": "https://tools.wardfinder.com",
     "icon": "https://icons.duckduckgo.com/ip3/tools.wardfinder.com.ico",
     "slug": "tools",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.77%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
     "time": 781,
     "timeDay": 781,
     "timeWeek": 781,
     "timeMonth": 781,
     "timeYear": 781,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-30": 0
+    }
   }
 ]
