@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-31": 36,
+      "2024-06-01": 39,
+      "2024-05-31": 1440,
       "2024-05-30": 616
     }
   },
@@ -31,11 +32,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 813,
-    "timeDay": 813,
-    "timeWeek": 813,
-    "timeMonth": 813,
-    "timeYear": 813,
+    "time": 812,
+    "timeDay": 809,
+    "timeWeek": 812,
+    "timeMonth": 812,
+    "timeYear": 812,
     "dailyMinutesDown": {}
   },
   {
@@ -49,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 823,
-    "timeDay": 823,
-    "timeWeek": 823,
-    "timeMonth": 823,
-    "timeYear": 823,
+    "time": 819,
+    "timeDay": 808,
+    "timeWeek": 819,
+    "timeMonth": 819,
+    "timeYear": 819,
     "dailyMinutesDown": {}
   },
   {
@@ -62,18 +63,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tools.wardfinder.com.ico",
     "slug": "tools",
     "status": "down",
-    "uptime": "4.38%",
-    "uptimeDay": "4.38%",
-    "uptimeWeek": "4.38%",
-    "uptimeMonth": "4.38%",
-    "uptimeYear": "4.38%",
+    "uptime": "1.36%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "1.36%",
+    "uptimeMonth": "1.36%",
+    "uptimeYear": "1.36%",
     "time": 781,
-    "timeDay": 781,
+    "timeDay": 0,
     "timeWeek": 781,
     "timeMonth": 781,
     "timeYear": 781,
     "dailyMinutesDown": {
-      "2024-05-31": 36,
+      "2024-06-01": 39,
+      "2024-05-31": 1440,
       "2024-05-30": 588
     }
   }
