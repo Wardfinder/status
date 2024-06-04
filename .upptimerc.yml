@@ -11,6 +11,9 @@ sites:
   - name: Tools
     url: https://tools.wardfinder.com
 
+assignees:
+  - DeclanChidlow
+
 status-website:
   cname: status.wardfinder.com
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
